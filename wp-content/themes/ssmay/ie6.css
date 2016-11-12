@@ -1,0 +1,31 @@
+/*IE6 FIX 20120124*/
+@charset "utf-8";
+.clearfix {height:1%;}
+body {background:#f2f2f2 url(images/body_bg.png) repeat-y 50% 0;position:absolute;top:0;left:0;margin:0 auto;font:12px/22px 'Microsoft Yahei','\5b8b\4f53',微软雅黑, Arial, Lucida Grande, Tahoma, sans-serif;color:#131313;}
+#header{height:110px;margin-bottom:0px;}
+#navmenu ul {position:absolute;top:0;left:0;float:left;padding:0 2px 0 0;}
+.htabs_art ul.cooltab_nav li a{width:89px;}
+
+.huanden {float:left;width:710px;height:280px;margin-bottom:-10px;}
+#search {margin-right:6px;}
+.huanden {margin-bottom:13px;}
+.huanden2 {margin-bottom:10px;}
+.huanden3{margin-bottom:-15px;}
+.twitbar-4 ul{margin-left:3px;}
+#mq2 li{padding-left:0px;}
+
+
+
+#mq3 li{margin-left:10px;}
+#mq3{padding-left:0px;margin-left:-10px;}
+
+#shang,#comt,#xia{background:no-repeat;height:0px;margin:10px 0 0;}
+#myrss {background:no-repeat;height:0px;margin:-20px 0 0 0px;}
+
+
+
+
+
+
+
+

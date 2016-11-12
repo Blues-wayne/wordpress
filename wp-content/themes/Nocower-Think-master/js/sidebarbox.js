@@ -1,0 +1,1 @@
+document.write("<iframe MARGINWIDTH=0 MARGINHEIGHT=0  HSPACE=0 VSPACE=0 FRameBORDER=0 SCROLLING=no src=<?php echo get_settings('home'); ?> topmargin=0 width=100% height=340></iframe>")

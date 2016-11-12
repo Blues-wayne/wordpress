@@ -1,0 +1,22 @@
+body {background:#9dbce0;margin:0 auto;font:12px/22px 'Microsoft Yahei','\5b8b\4f53',微软雅黑, Arial, Lucida Grande, Tahoma, sans-serif;color:#131313;}
+/*--CMS开始菜单样式 --*/
+.topnav {margin:0 auto;background:#09609f;height:35px; line-height:35px;overflow:hidden; width:1000px;margin: 0; padding:0;}
+.topnav ul {background:#D32469;list-style: none; margin: 0; padding: 0; position: absolute; z-index: 999; }
+.topnav li {border-right:1px solid #6b93c4;width:90px;height:35px;float:left;font-weight:bold;position: relative;}
+.topnav li a{width:90px;height: 35px;line-height: 35px;text-align: center;display: block;text-decoration: none;
+ font-size:14px;color:#ffffff;background:#09609f; }
+.topnav li a:hover{ font-size:14px;color:#ffffff;;background:#76183D;text-decoration: none;}
+
+/*---search---*/
+/* 搜索	 */	
+#s {width:100px;background:url(../images/search_blue.gif);margin-top:4px;padding: 4px 5px;height:17px;border:none;
+	font: normal 100% "Tahoma", Arial, Helvetica, sans-serif;color:#fff;float:left;display:inline;}
+/* 侧边栏	 */		
+ul.cooltab_nav li a:hover {background:#f9c006;color:#fff;}
+ul.cooltab_nav li a.active{background:#09609f;color:#fff;}
+.con_box h3{background:#09609f;color:#fff;font-weight:bold;font-size:14px;height:32px;line-height:32px;padding:0 10px;}
+/* 底部	 */	
+.footer_bug {background:#09609f;margin:1px;padding:8px;text-align:center;color:#4f5050;clear:both;}
+
+#mq2 li a{color:#09609f;background:#fff;font-weight:900;}
+.flink strong {color:#09609f;}
